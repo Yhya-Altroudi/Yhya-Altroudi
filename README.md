@@ -1,9 +1,13 @@
+<!--The name and education -->
 <h1 align="center">Hi 👋!,  I'm Yhya Altroudi</h1>
 
 ###
 
 <p align="center">Bachelor of Information Technology Engineering <br> AI Engineering Specialization</p>
 
+<br>
+
+<!-- Connection info-->
 ###
 
 <h3 align="left">Connect with me:</h3>
@@ -16,6 +20,9 @@
   </a>
 </div>
 
+<br>
+
+<!-- Programming languages -->
 ###
 
 <h4 align="left">Languages:</h4>
@@ -30,6 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
+<br>
+
+<!--Tools-->
 ###
 
 <h4 align="left">Tools:</h4>
@@ -56,3 +66,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
+<br>
+
+<!-- Github stats-->
+<h4 align="left">My stats :</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yhya-Altroudi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yhya-Altroudi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
