@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Bachelor of Information Technology Engineering _<br>AI Engineering Specialization</p>
+<p align="center">Bachelor of Information Technology Engineering <br> AI Engineering Specialization</p>
 
 ###
 
