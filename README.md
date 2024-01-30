@@ -56,8 +56,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Yhya-Altroudi/Yhya-Altroudi/output/snake.svg" alt="Snake animation" />
-
-###
