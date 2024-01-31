@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-###
+
 
 <div align="left">
   <a href="http://www.linkedin.com/in/yhya-altroudi" target="_blank">
@@ -80,4 +80,10 @@
 
 ###
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/Yhya-Altroudi/Yhya-Altroudi/blob/output/github-contribution-grid-snake-dark.svg" />
 
+
+</div>
