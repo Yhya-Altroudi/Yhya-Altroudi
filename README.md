@@ -4,27 +4,32 @@
 </h1>
 
 <!-- Education -->
-<p align="center">
+<h3 align="center">
 <strong>Bachelor of Information Technology Engineering <br> AI Engineering Specialization</strong>
-</p>
+</h3>
 
 
-<br>
+<br/>
 
 
 <!-- Connection info -->
 <h2 align="center">📱 Connect With Me 📱</h2>
+
+<br/>
+
 <div align="center">
   <a href="http://www.linkedin.com/in/yhya-altroudi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
-<hr/>
 <br>
+<hr/>
 
 <!-- languages -->
 <h2 align="center">💻 Languages 💻</h2>
+
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -34,11 +39,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
+<br/>
 <hr/>
-<br>
 
 <!--Tools and frameworks -->
 <h2 align="center">⚒️ Tools and Frameworks ⚒️</h2>
+
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -60,11 +67,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
+<br/>
 <hr/>
-<br>
 
 <!-- Github stats-->
 <h2 align="center">⚡ My Stats ⚡</h2>
+
+<br/>
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -73,8 +82,8 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp0&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<br/>
 <hr/>
-<br>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
