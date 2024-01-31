@@ -1,9 +1,25 @@
-<!--The name and education -->
-<h1 align="center">Hi 👋!,  I'm Yhya Altroudi</h1>
+
+<!-- Add Styling -->
+<head><style>
+p {
+   font-size:17px 
+  }
+</style></head>
+
+
+
+<!-- The name -->
+<h1 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&color=24F71C&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Yhya+Altroudi" />
+
+</h1>
 
 ###
 
-<p align="center">Bachelor of Information Technology Engineering <br> AI Engineering Specialization</p>
+<p align="center">
+<strong>Bachelor of Information Technology Engineering <br> AI Engineering Specialization</strong>
+</p>
 
 <br>
 
