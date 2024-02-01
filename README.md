@@ -77,8 +77,9 @@
 
 <div align=center>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhya-Altroudi&theme=github-dark&background=000000" alt="python logo"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhya-Altroudi&layout=compact&theme=shadow_green&bg_color=000000&title_color=39d353"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yhya-Altroudi&theme=github-dark&background=20232a" alt="python logo"  />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yhya-Altroudi&layout=compact&theme=shadow_green&title_color=39d353&border_color=39d353&text_color=FFFFFF&bg_color=20232a"/>
 
 </div>
 
