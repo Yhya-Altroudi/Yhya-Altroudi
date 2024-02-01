@@ -1,3 +1,6 @@
+<!-- Visitors badge -->
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYhya-Altroudi&label=visitors&countColor=%231379b2&style=flat" />
+
 <!-- The name -->
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&color=24F71C&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Yhya+Altroudi" />
